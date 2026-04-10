@@ -1,0 +1,6 @@
+Logistics Pricing Report
+========================
+Average shipping cost: 0.00
+Market fallback rate: 2800.00
+Average cost is below the market rate by 2800.00.
+No invoice cost data was available to compute an average.

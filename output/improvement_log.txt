@@ -1,0 +1,3 @@
+Improvement Log for Unknown Invoice Fields
+========================================
+Invoice id=1 from D:\cwt-fresh\data\ACCD05_CV_QB.pdf: missing invoice number; missing invoice date; missing or zero cost. Recommended action: review PDF content and update metadata manually.
