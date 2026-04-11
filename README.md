@@ -12,7 +12,7 @@ This repository contains a simple multi-agent logistics pipeline written in Pyth
 6. `agents/agent6_reporter.py` - generate a comparison report and save it to `output/report.txt`
 7. `agents/agent7_improver.py` - find records with `UNKNOWN` values and log improvement recommendations to `output/improvement_log.txt`
 
-## Usage
+## To run the project 
 
 1. Install dependencies:
 ```bash
